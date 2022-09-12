@@ -193,7 +193,3 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 ALTER TABLE PortfolioProject.dbo.NashvilleHousing
 DROP COLUMN SaleDate
 
-
-
-
-
